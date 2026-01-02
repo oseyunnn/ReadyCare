@@ -118,6 +118,11 @@ npx expo start
 * Individuals with limited health literacy
 * Areas with limited healthcare access
 
+---
+
+## UI Prototype
+
+Link: https://www.figma.com/proto/Y8UGRsG0fp2fh6hzw78sYV/ReadyCare?node-id=0-1&t=vrnPihDf3t6a9Kvu-1 
 
 * Add a **demo/screenshots section**
 * Tighten the wording even more
